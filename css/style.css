@@ -64,6 +64,7 @@ main {
   margin-top: 20px;
 }
 
+/* table */
 table {
   margin-top: 20px;
   border-spacing: 0px;
@@ -80,6 +81,7 @@ thead {
 .cyan {
   background-color: cyan;
 }
+/* end of table */
 
 .final-article {
   margin-top: 20px;
