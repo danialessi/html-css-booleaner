@@ -85,5 +85,30 @@ thead {
   margin-top: 20px;
 }
 /* end of article */
-
 /* end of main */
+
+/* footer */
+footer {
+  margin-top: 20px;
+}
+
+footer p {
+  color: grey;
+}
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+  width: 300px;
+  height: 200px;
+  color: white;
+  font-size: 20px;
+}
+
+.graph {
+  background-image: url("../img/graph.jpg");
+  width: 300px;
+  height: 200px;
+  color: white;
+  font-size: 20px;
+}
+/* end of footer */
