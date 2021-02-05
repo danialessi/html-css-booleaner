@@ -7,6 +7,10 @@
   width: 1024px;
   margin: auto;
 }
+
+.highlight {
+  background-color: yellow;
+}
 /* end of common */
 
 /* logo and header */
@@ -57,6 +61,27 @@ main {
 }
 
 .list {
+  margin-top: 20px;
+}
+
+table {
+  margin-top: 20px;
+  border-spacing: 0px;
+}
+
+.text {
+  width: 50%;
+}
+
+thead {
+  background-color: blue;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.final-article {
   margin-top: 20px;
 }
 /* end of article */
