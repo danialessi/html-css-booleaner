@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+}
+
+/* common */
+.container {
+  width: 1024px;
+  margin: auto;
+}
+/* end of common */
+
+/* logo and header */
+header {
+  background-image: url("../img/pattern.png");
+  background-size: 500px;
+}
+
+.logo {
+  width: 200px;
+  margin-top: 40px;
+}
+/* end of logo and header */
+
+/* main */
+main {
+  margin-top: 20px;
+}
+
+/* credits */
+.credits {
+  color: grey;
+}
+
+.authors {
+  color: blue;
+}
+
+.date {
+  font-size: 10px;
+  color: grey;
+}
+/* end of credits */
+
+/* photos */
+.photos {
+  margin-top: 20px;
+}
+
+.didascalie {
+  font-size: 10px;
+}
+/* end of photos */
+
+/* article */
+.text {
+  margin-top: 20px;
+}
+
+.list {
+  margin-top: 20px;
+}
+/* end of article */
+
+/* end of main */
